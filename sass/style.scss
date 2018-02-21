@@ -13,4 +13,15 @@ body {
 
 span {
 	margin-right: 15px;
+	display: inline-block;
+	height: 25px;
+	line-height: 25px;
+}
+
+button {
+	width: 25px;
+	height: 25px;
+	padding: 0;
+	font-size: 16px;
+	margin: 0 5px 5px 0;
 }
