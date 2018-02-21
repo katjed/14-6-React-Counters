@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+$font: 'Open Sans', sans-serif;
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 20px;
+    font-family: $font;
+}
+
+span {
+	margin-right: 15px;
+}

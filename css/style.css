@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 20px;
+  font-family: "Open Sans", sans-serif;
+}
+
+span {
+  margin-right: 15px;
+}
+/*# sourceMappingURL=style.css.map */
