@@ -1,3 +1,3 @@
-task-14-6
+14-6-React-Counters
 
-https://katjed.github.io/task-14-6/
+https://katjed.github.io/14-6-React-Counters/
